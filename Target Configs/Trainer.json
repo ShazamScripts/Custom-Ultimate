@@ -1,0 +1,45 @@
+{
+  "targeting": [
+    {
+      "lureCavebot": false,
+      "lureCount": 1,
+      "rePositionAmount": 5,
+      "anchorRange": 3,
+      "keepDistanceRange": 1,
+      "lure": false,
+      "priority": 1,
+      "dontLoot": false,
+      "regex": "^trainer$",
+      "maxDistance": 10,
+      "diamondArrows": false,
+      "dynamicLureDelay": false,
+      "closeLure": false,
+      "rePosition": false,
+      "rpSafe": false,
+      "lureDelay": 250,
+      "avoidAttacks": false,
+      "faceMonster": false,
+      "name": "Trainer",
+      "lureMax": 3,
+      "danger": 1,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "keepDistance": false,
+      "anchor": false,
+      "chase": true,
+      "delayFrom": 2,
+      "closeLureAmount": 3
+    }
+  ],
+  "looting": {
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "items": [
+
+    ],
+    "containers": [
+
+    ],
+    "everyItem": false
+  }
+}
